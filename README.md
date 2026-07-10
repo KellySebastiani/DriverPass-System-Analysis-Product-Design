@@ -19,14 +19,11 @@ As the Systems Analyst, I:
 - Evaluated security considerations
 - Presented the proposed solution to stakeholders
 ## Deliverables
-- Use Case Diagram
-- Activity Diagrams
-- Sequence Diagram
-- Class Diagram
-- Functional Requirements
-- Non-functional Requirements
-- Security Analysis
-- Client Presentation
+- [Use Case Diagram](images/user-authentication-workflow.png)
+- [User Authentication Workflow](images/user-authentication-workflow.png)
+- [Password Recovery Workflow](images/password-recovery-workflow.png)
+- [Password Recovery Sequence Diagram](images/password-recovery-sequence-diagram.png)
+- [Class Diagram](images/class-diagram.png)
 ## Product Management Skills Demonstrated
 - Requirements Gathering
 - Stakeholder Analysis
