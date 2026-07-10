@@ -8,9 +8,6 @@ DriverPass is a conceptual web-based driver education platform designed to strea
 Many driving schools rely on disconnected scheduling tools and outdated training materials. DriverPass was designed to centralize appointment scheduling, online instruction, DMV updates, package management, and reporting into a single platform while improving the experience for students, instructors, and administrators.
 
 ## My Role
-
-As the Systems Analyst, I:
-
 - Analyzed stakeholder requirements
 - Defined functional and non-functional requirements
 - Designed system workflows
@@ -19,6 +16,7 @@ As the Systems Analyst, I:
 - Evaluated security considerations
 - Presented the proposed solution to stakeholders
 ## Deliverables
+- [Client Presentation](docs/client-presentation.pdf)
 - [Use Case Diagram](images/user-authentication-workflow.png)
 - [User Authentication Workflow](images/user-authentication-workflow.png)
 - [Password Recovery Workflow](images/password-recovery-workflow.png)
