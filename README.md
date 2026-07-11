@@ -16,6 +16,7 @@ Many driving schools rely on disconnected scheduling tools and outdated training
 - Evaluated security considerations
 - Presented the proposed solution to stakeholders
 ## Deliverables
+- [Business Requirements Document](docs/BRD.pdf)
 - [Client Presentation](docs/client-presentation.pdf) (with design notes)
 - [Use Case Diagram](images/use-case-diagram.png)
 - [User Authentication Workflow](images/user-authentication-workflow.png)
